@@ -1,0 +1,10 @@
+yfinanace
+pandas
+numpy
+matplotlib
+seaborn
+hmmlearn
+requests
+scikit-learn
+beautifulsoup
+lxml

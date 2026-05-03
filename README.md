@@ -11,6 +11,8 @@ Explanation of the code
 3.	Score the stocks and build the Ising model.
 4.	We make sure to run quarterly rebalancing using both the VIX and HMM methods.
 5.	The code also produces performance tables and charts.
+
+   
 The libraries:
 Yfinance: for stock price data
 Panda and numpy: Data manipulation
